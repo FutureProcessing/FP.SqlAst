@@ -1,0 +1,5 @@
+bin
+obj
+FP.SqlAst.*.nupkg
+*.suo
+*.user

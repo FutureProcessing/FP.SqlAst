@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>FP.SqlAst</id>
+        <version>1.0.0</version>
+        <authors>Future Processing</authors>
+        <description>Simple library for building Abstract Syntax Trees for SQL queries. Ready AST can be converted to SQL statement for Sql Server or PostgreSql.</description>
+    </metadata>
+</package>
